@@ -1,0 +1,2 @@
+# bitmusicbot
+A music bot
